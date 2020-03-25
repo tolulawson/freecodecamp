@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: helvetica, sans-serif;
+  background-color: #dcd6f7;
+}
+
+
+header {
+  font-size: 1.5rem;
+}
+
+.main {
+  max-width: 600px;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f4eeff;
+  padding: 25px;
+  pa
+}
